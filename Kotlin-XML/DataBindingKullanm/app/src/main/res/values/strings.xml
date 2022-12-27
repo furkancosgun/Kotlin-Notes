@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DataBindingKullanımı</string>
+    <string name="sayi1">"1.Sayi</string>
+    <string name="sayi2">2.Sayi</string>
+    <string name="topla">Topla</string>
+    <string name="sonuc">Sonuc { }</string>
+    <string name="goto_fragment">GoTo Fragment</string>
+</resources>

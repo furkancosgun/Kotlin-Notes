@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "163572137140",
+    "project_id": "kotlinnotification-9859e",
+    "storage_bucket": "kotlinnotification-9859e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163572137140:android:3b0ab4add7fbaaefb8abe1",
+        "android_client_info": {
+          "package_name": "com.furkancosgun.firebasenotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163572137140-b0eg8d74o7gine2o9e8o2209df2qapuo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-amvkSRwlav3WPQNH3evg5OwKmcpv3XQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163572137140-b0eg8d74o7gine2o9e8o2209df2qapuo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

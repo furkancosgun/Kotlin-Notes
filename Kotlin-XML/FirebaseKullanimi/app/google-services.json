@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "63846385883",
+    "firebase_url": "https://globaldb-805c3-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "globaldb-805c3",
+    "storage_bucket": "globaldb-805c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63846385883:android:0afdd405b367866dbaa4fe",
+        "android_client_info": {
+          "package_name": "com.furkancosgun.firebasekullanimi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63846385883-2ivq95e9akdumc2jv4efcupt7rc08t8r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBokVaSRGo-7U0qx6JVZSp0RGulqPO78M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63846385883-2ivq95e9akdumc2jv4efcupt7rc08t8r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirebaseKullanimi</string>
+    <string name="label">Name</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="note">Note</string>
+    <string name="save">SAVE</string>
+</resources>
