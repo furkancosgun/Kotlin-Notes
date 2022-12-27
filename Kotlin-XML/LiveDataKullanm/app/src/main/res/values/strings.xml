@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LiveDataKullanımı</string>
+    <string name="add_one">Add One</string>
+    <string name="one_subtract">One Subtract</string>
+</resources>
