@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PicassoKullanımı</string>
+    <string name="placeHoler">Url</string>
+    <string name="btnPh">Get Image From Url</string>
+</resources>
