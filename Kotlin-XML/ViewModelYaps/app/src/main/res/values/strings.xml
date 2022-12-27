@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ViewModelYapısı</string>
+    <string name="s1">1.Sayi</string>
+    <string name="s2">2.Sayi</string>
+    <string name="calc">Hesapla</string>
+    <string name="sonuc">Sonuc</string>
+</resources>
