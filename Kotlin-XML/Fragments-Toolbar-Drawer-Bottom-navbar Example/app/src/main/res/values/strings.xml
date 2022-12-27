@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Example</string>
+    <string name="text_home">Home</string>
+    <string name="text_search">Search</string>
+    <string name="text_menu">Menu</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_from_s">Hello From %s</string>
+    <string name="header_title">Header Title</string>
+    <string name="header_text">Header Text</string>
+    <string name="top_app_bar">App Bar</string>
+</resources>
