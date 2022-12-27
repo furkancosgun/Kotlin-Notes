@@ -8,7 +8,7 @@ import retrofit2.http.*
 interface UserDAOInterface {
 
     @POST("users")
-    @FormUrlEncoded//Türkçe Parametre Gonderimi
+    @FormUrlEncoded
     fun createUser(
         @Field("username") username : String,@Field("password") password : String,
     ): Call<User>
